@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "298460711180",
+    "project_id": "collabalbum-a75ca",
+    "storage_bucket": "collabalbum-a75ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298460711180:android:a5a6bb6bd559999ec22129",
+        "android_client_info": {
+          "package_name": "com.example.collabalbum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298460711180-dnf9vue7m76fhumeobn4ecfb4pivkhr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.collabalbum",
+            "certificate_hash": "6065d622670e10b2d4b37d8877960a97e9b44ccc"
+          }
+        },
+        {
+          "client_id": "298460711180-gnplfrv19j9oo7dp7ba4bkkr83n08qel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIOUxhEMIBXdOdsDOBMkG3YYNg9J-cl6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298460711180-gnplfrv19j9oo7dp7ba4bkkr83n08qel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
