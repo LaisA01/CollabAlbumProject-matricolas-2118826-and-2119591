@@ -11,7 +11,7 @@ you must add your SHA-1 fingerprint (Gradle -> execute task -> signingReport) to
 
 To do so, we provide you with the following gmail address that is set as owner of the Firebase project:
 
-email: collabalbumprojectdev@gmail.com - password: 
+email: collabalbumprojectdev@gmail.com - password: provided in the Student IDs field in the submission form
 
 This way you can go to project settings and scroll down, there you can add yor SHA1 fingerprint, and also view the structure of our Firebase project.
 
