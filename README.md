@@ -15,3 +15,13 @@ email: collabalbumprojectdev@gmail.com - password: provided in the Student IDs f
 
 This way you can go to project settings and scroll down, there you can add yor SHA1 fingerprint, and also view the structure of our Firebase project.
 
+BRIEF APP DESCIRPITON:
+
+cloud based photo album application with the following features:
+    - Merge galleries between two users
+    - GPS photo tagging, dislay location via Google Maps
+    - take photos
+    - sign in with google authentication
+    - concurrency
+    - Cloud storage, web APIs
+    - ....
